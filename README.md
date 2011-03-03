@@ -1,5 +1,3 @@
-Previews: [here](http://ecto-plazm.deviantart.com/gallery/).
-
 Most of the themes were converted from n0tch2k's [.Xdefaults](http://rawtec.de/dotfiles/Xdefaults.html).
 The pnevma theme was reconstructed from [this](https://bbs.archlinux.org/viewtopic.php?pid=580775#p580775) screenshot.
 
